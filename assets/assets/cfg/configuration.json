@@ -1,0 +1,9 @@
+{
+    
+        "api_base_url": "https://apps.cloudmesoft.com/api/",
+        "base_url":"https://apps.cloudmesoft.com/api/",
+        "domain_url":"https://apps.cloudmesoft.com/",
+        "google_maps_key" : "<YOUR GOOGLE MAPS API KEY>",
+        "app_icon" : "https://apps.cloudmesoft.com/images/logo_black.png?v=1"
+      
+}
