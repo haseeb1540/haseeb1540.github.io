@@ -2,7 +2,7 @@
     
         "api_base_url": "https://dev.cloudmesoft.com/api/flutter/",
         "base_url":"https://apps.cloudmesoft.com/api/",
-        "domain_url":"https://apps.cloudmesoft.com/",
+        "image_url":"https://dev.cloudmesoft.com/",
         "google_maps_key" : "<YOUR GOOGLE MAPS API KEY>",
         "app_icon" : "https://apps.cloudmesoft.com/images/logo_black.png?v=1"
       
