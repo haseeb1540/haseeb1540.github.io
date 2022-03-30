@@ -15782,7 +15782,7 @@ var $async$alA=P.K(function(c,d){if(c===1)return P.L(d,r)
 while(true)switch(s){case 0:P.aE(a)
 P.aE("urlId................")
 s=3
-return P.C(G.ct("get_client1",!0,null,"com_url_id="+a,b,!1),$async$alA)
+return P.C(G.ct("get_client",!0,null,"com_url_id=justme1",b,!1),$async$alA)
 case 3:p=d
 if(p!=null){Q.U2(p)
 o=new N.jH()
