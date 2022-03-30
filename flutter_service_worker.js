@@ -10,7 +10,7 @@ const RESOURCES = {
 "assets/assets/beauty.png": "1daab0a5a499eb3f27eaab21c3ae8f2c",
 "assets/assets/beverages.png": "388606a6f098724910dc38e2a6fb918d",
 "assets/assets/bg.png": "1aa616acfc0a2b3c77c7debd4cbb0cca",
-"assets/assets/cfg/configuration.json": "d6c95e2de6d415019246eae1cd5a67ae",
+"assets/assets/cfg/configuration.json": "dc8cc0b83190373c3cec9bc0fb1dd2ff",
 "assets/assets/deal_bg.png": "d8a728dc43a9a9496cedfe6c64d6433e",
 "assets/assets/discover.png": "df8dbe5399fb8297be42005154fd268e",
 "assets/assets/facebook.png": "3989df5c380e16b32e543afd7c06134e",
@@ -49,9 +49,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "d42532f701f6deebca2031593558fad2",
-"/": "d42532f701f6deebca2031593558fad2",
-"main.dart.js": "b77976bcc3b16e8a9fd88eb8e34bbec0",
+"index.html": "2d669a93f3d529d36fb7e4f023db3709",
+"/": "2d669a93f3d529d36fb7e4f023db3709",
+"main.dart.js": "f7e95c096ea604425c40c18816f2d792",
 "manifest.json": "4b9de85c116de6b72017882b7bd4c499",
 "version.json": "f9105f7af95f8c314f09a299deed7cd1"
 };
