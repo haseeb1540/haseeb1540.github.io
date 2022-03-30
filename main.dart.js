@@ -10753,7 +10753,7 @@ case 9:o=H.c($.pB().a.h(0,"api_base_url"))+a+"?"+H.c(d)
 P.aE(o)
 P.aE("get_url...............")
 s=12
-return P.C(g.AW("GET",o,P.aC(["authorization",f,"X-customer-auth",e,"x_build_version",H.c(j.c),"Accept","application/json"],p,p)),$async$ct)
+return P.C(g.AW("GET",o,P.aC(["authorization",f,"X-customer-auth",e,"x_build_version",H.c(j.c),"Accept","application/json","x-ms-blob-type","BlockBlob"],p,p)),$async$ct)
 case 12:n=a3
 s=n.b===200?13:14
 break
@@ -10780,7 +10780,7 @@ P.aE("post_url.......................")
 P.aE(c)
 P.aE("body.....................")
 s=19
-return P.C(g.qk("POST",o,P.aC(["authorization",f,"X-customer-auth",e,"x_build_version",H.c(j.c),"Accept","application/json"],p,p),c,null),$async$ct)
+return P.C(g.qk("POST",o,P.aC(["authorization",f,"X-customer-auth",e,"x_build_version",H.c(j.c),"Accept","application/json","x-ms-blob-type","BlockBlob"],p,p),c,null),$async$ct)
 case 19:n=a3
 p=n.e
 m=B.dg(U.de(p).c.a.h(0,"charset"))
@@ -10811,7 +10811,7 @@ P.aE(o)
 P.aE("delete_url.......................")
 p=t.X
 s=29
-return P.C(g.AW("DELETE",o,P.aC(["authorization",f,"X-customer-auth",e,"x_build_version",H.c(j.c),"Accept","application/json"],p,p)),$async$ct)
+return P.C(g.AW("DELETE",o,P.aC(["authorization",f,"X-customer-auth",e,"x_build_version",H.c(j.c),"Accept","application/json","x-ms-blob-type","BlockBlob"],p,p)),$async$ct)
 case 29:n=a3
 p=n.e
 m=B.dg(U.de(p).c.a.h(0,"charset"))
@@ -73388,7 +73388,7 @@ a9=T.cG(L.y("No Wishlist Items Found!",a6,a6,a6,A.t(a6,a6,P.i(C.d.a7(178.5),a9>>
 s=K.e(b1).Q.a
 s=U.aO("assets/point.png",P.i(255,s>>>16&255,s>>>8&255,s&255),a6)
 p=K.e(b1).Q.a
-p=Q.cW(a6,a6,A.t(a6,a6,P.i(204,p>>>16&255,p>>>8&255,p&255),a6,a6,a6,a6,a6,a6,a6,a6,18,a6,C.i,a6,a6,!0,a6,1,a6,a6,a6,a6,a6),"Wish List")
+p=Q.cW(a6,a6,A.t(a6,a6,P.i(204,p>>>16&255,p>>>8&255,p&255),a6,a6,a6,a6,a6,a6,a6,a6,18,a6,C.i,a6,a6,!0,a6,1,a6,a6,a6,a6,a6),"Wishlist")
 o="("+$.iq.a.length+" Item)"
 n=K.e(b1).r.a
 o=T.af(H.b([s,M.E(C.aH,new T.A(C.c9,T.rF(a6,a6,C.ak,!0,a6,Q.cW(H.b([p,Q.cW(a6,a6,A.t(a6,a6,P.i(102,n>>>16&255,n>>>8&255,n&255),a6,a6,a6,a6,a6,a6,a6,a6,14,a6,a6,a6,a6,!0,a6,a6,a6,a6,a6,a6,a6),o)],t.hv),a6,a6,a6),C.N,a6,a6,1,C.a6),a6),a6,a6,a6,a6,a6,a6,a6)],q),C.j,C.u,C.h)
