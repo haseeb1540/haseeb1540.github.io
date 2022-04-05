@@ -1,6 +1,6 @@
 {
     
-        "api_base_url": "https://ecom.cloudmesoft.com/api/",
+        "api_base_url": "http://dev1.cloudmesoft.com/api/flutter/",
         "base_url":"https://apps.cloudmesoft.com/api/",
         "image_url":"https://dev.cloudmesoft.com/",
         "google_maps_key" : "<YOUR GOOGLE MAPS API KEY>",
