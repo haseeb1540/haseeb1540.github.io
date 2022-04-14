@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "9a4b6299efcf96cefa2387c8b219624a",
+  "assets/AssetManifest.json": "17e61d2e661ded80d9533417f2b6f856",
 "assets/assets/address.png": "4c2257116e20f2b894fd2b474cf87720",
 "assets/assets/amex.png": "fc865d6edb489384dc304131c93ddcd1",
 "assets/assets/appstore.png": "c8a2623fac5d67c02d63ac0f3956b57f",
@@ -28,7 +28,7 @@ const RESOURCES = {
 "assets/assets/mail.png": "bead89aeb9bc5aebdc97232ad34d62b4",
 "assets/assets/mastercard.png": "d296d66870581b5ef35bce45e05ed94b",
 "assets/assets/men.png": "97bb30b6f2b621b52470ea469da68edf",
-"assets/assets/no_image.jpeg": "e879ca1ed96b4bdf4fcb647dfee31093",
+"assets/assets/no_image.png": "31c8b15a4bf36f5a24d648d680c083a2",
 "assets/assets/orders.png": "6473012694997d012e3a41b703529066",
 "assets/assets/personal_care.png": "97456c3c24d01b7f1d031c6cf8fe3d35",
 "assets/assets/playstore.png": "d3b0a1642ea2da0f791df76aeef83fee",
@@ -49,14 +49,14 @@ const RESOURCES = {
 "assets/assets/youtube.png": "a5b2ea8094ba132b1b40bb406a59e241",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/NOTICES": "11c6455fd92e08cd4936d581ca2cfdb4",
+"assets/NOTICES": "c55203a247751c71364db10a24a3a97a",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "cb55cf4fd8fe9969a7d71aecfe1cccf5",
-"/": "cb55cf4fd8fe9969a7d71aecfe1cccf5",
-"main.dart.js": "dc3788fe69839cbc8e0f385168096099",
+"index.html": "2b9a3b39d6327322113f6976b723bb1a",
+"/": "2b9a3b39d6327322113f6976b723bb1a",
+"main.dart.js": "f988c5892584f08b9a33a10182296c6c",
 "manifest.json": "4b9de85c116de6b72017882b7bd4c499",
 "version.json": "f9105f7af95f8c314f09a299deed7cd1"
 };
