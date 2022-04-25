@@ -10,7 +10,7 @@ const RESOURCES = {
 "assets/assets/banner.png": "94dceb038c5aa108653b1978784a61a8",
 "assets/assets/beverages.png": "388606a6f098724910dc38e2a6fb918d",
 "assets/assets/bg.png": "1aa616acfc0a2b3c77c7debd4cbb0cca",
-"assets/assets/cfg/configuration.json": "197e945128f94f6619c027cc7d7b95c5",
+"assets/assets/cfg/configuration.json": "5677408081dab28e53e756c1ff34474f",
 "assets/assets/deal_bg.png": "d8a728dc43a9a9496cedfe6c64d6433e",
 "assets/assets/deal_bg1.png": "4badd62ba72c5e48b8fb5bee44a11f6b",
 "assets/assets/discover.png": "140ba92e61d14041c1d84b48fa9251b5",
@@ -48,17 +48,21 @@ const RESOURCES = {
 "assets/assets/women.png": "1172e9317c46791fe9ed968f37b70481",
 "assets/assets/youtube.png": "a5b2ea8094ba132b1b40bb406a59e241",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/NOTICES": "35bbd9ed22297c0972f37b9d84960794",
+"assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
+"assets/NOTICES": "69af1d10fced1dbe21461ede59819968",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
+"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
+"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
+"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
+"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "376be97e2f1a207d160b390cac25dc17",
-"/": "376be97e2f1a207d160b390cac25dc17",
-"main.dart.js": "54c3eed529ba172011ca852502a4ea76",
+"index.html": "0171d133105636363d9797090ffde905",
+"/": "0171d133105636363d9797090ffde905",
+"main.dart.js": "ebf259299aa135f5faeba8cc1b90eeb1",
 "manifest.json": "4b9de85c116de6b72017882b7bd4c499",
-"version.json": "f9105f7af95f8c314f09a299deed7cd1"
+"version.json": "9e90b87cd3c8c7722e0e168d5ea09ac9"
 };
 
 // The application shell files that are downloaded before a service worker can
