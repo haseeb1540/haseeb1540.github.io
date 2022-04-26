@@ -48,21 +48,17 @@ const RESOURCES = {
 "assets/assets/women.png": "1172e9317c46791fe9ed968f37b70481",
 "assets/assets/youtube.png": "a5b2ea8094ba132b1b40bb406a59e241",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
-"assets/NOTICES": "69af1d10fced1dbe21461ede59819968",
+"assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
+"assets/NOTICES": "dd6ff558175d1af14e6ea49275151f24",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
-"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
-"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
-"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
-"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "f01447a0c4ccef5da678420e9cc1b41e",
-"/": "f01447a0c4ccef5da678420e9cc1b41e",
-"main.dart.js": "71c4a104b597e920c34d824fad16b625",
+"index.html": "241eb5c172a783cacdf87d119a261c81",
+"/": "241eb5c172a783cacdf87d119a261c81",
+"main.dart.js": "4ccb45b08b88bfd42d3f48f6b0a0850e",
 "manifest.json": "4b9de85c116de6b72017882b7bd4c499",
-"version.json": "9e90b87cd3c8c7722e0e168d5ea09ac9"
+"version.json": "f9105f7af95f8c314f09a299deed7cd1"
 };
 
 // The application shell files that are downloaded before a service worker can
